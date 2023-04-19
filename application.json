@@ -3,6 +3,10 @@
     {
       "id": "Owners Page",
       "isDefault": true
+    },
+    {
+      "id": "Members Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
