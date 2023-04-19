@@ -265,9 +265,9 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 157,
+              "originalTopRow": 152,
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 179,
+              "originalBottomRow": 174,
               "minDynamicHeight": 10
             },
             {
@@ -1711,7 +1711,7 @@
               "responsiveBehavior": "fill",
               "originalTopRow": 121,
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 156,
+              "originalBottomRow": 151,
               "minDynamicHeight": 10
             },
             {
@@ -1952,7 +1952,7 @@
               "borderColor": "#E0DEDE",
               "isVisibleDownload": true,
               "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-              "topRow": 33,
+              "topRow": 32,
               "isSortable": true,
               "type": "TABLE_WIDGET_V2",
               "inlineEditingSaveOption": "ROW_LEVEL",
@@ -1990,7 +1990,7 @@
                 }
               ],
               "needsHeightForContent": true,
-              "leftColumn": 2,
+              "leftColumn": 1,
               "delimiter": ",",
               "defaultSelectedRowIndex": 0,
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -2038,7 +2038,7 @@
               ],
               "dynamicPropertyPathList": [],
               "displayName": "Table",
-              "bottomRow": 61,
+              "bottomRow": 60,
               "columnWidthMap": {
                 "task": 245,
                 "step": 70,
