@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{get_competitor_list.data}}",
+      "body": "{{Competitors.data}}",
       "bodyFormData": [],
       "httpMethod": "GET",
       "selfReferencingDataPaths": [],
@@ -52,7 +52,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "get_competitor_list.data"
+      "Competitors.data"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

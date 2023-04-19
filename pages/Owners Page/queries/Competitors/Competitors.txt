@@ -1,1 +1,1 @@
-{{get_competitor_list.data}}
+{{Competitors.data}}
