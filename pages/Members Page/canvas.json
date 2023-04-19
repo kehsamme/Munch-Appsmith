@@ -1011,7 +1011,7 @@
                 }
               ],
               "needsHeightForContent": true,
-              "leftColumn": 27,
+              "leftColumn": 25,
               "delimiter": ",",
               "defaultSelectedRowIndex": 0,
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -1167,7 +1167,7 @@
               "key": "b38gzostro",
               "canFreezeColumn": true,
               "isDeprecated": false,
-              "rightColumn": 61,
+              "rightColumn": 59,
               "textSize": "0.875rem",
               "widgetId": "0dmpsvjsx4",
               "minWidth": 450,
